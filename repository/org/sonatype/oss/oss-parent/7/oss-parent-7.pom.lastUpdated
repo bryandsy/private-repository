@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Dec 21 18:36:52 CST 2015
+https\://repo.maven.apache.org/maven2/.lastUpdated=1450694212443
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1450694210722
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.sonatype.oss\:oss-parent\:pom\:7 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: www.myhost.com
+https\://raw.github.com/289048093/mvn/mvn-repo/.error=
+https\://raw.github.com/289048093/mvn/mvn-repo/.lastUpdated=1450694212017

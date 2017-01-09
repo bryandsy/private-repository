@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Dec 21 19:51:46 CST 2015
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1450698704546
+https\://raw.github.com/289048093/mvn/mvn-repo/.lastUpdated=1450698706822
+https\://raw.github.com/289048093/mvn/mvn-repo/.error=
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact commons-lang\:commons-lang\:jar\:2.6 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: www.myhost.com

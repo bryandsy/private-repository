@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Dec 21 20:30:14 CST 2015
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1450700991626
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1450701014095
+@default-mvn-mvn-repo-https\://raw.github.com/289048093/mvn/mvn-repo/.lastUpdated=1450701003798
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact net.sf.dozer\:dozer\:jar\:5.5.1 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: www.myhost.com
+https\://raw.github.com/289048093/mvn/mvn-repo/.error=Could not transfer artifact net.sf.dozer\:dozer\:jar\:5.5.1 from/to mvn-mvn-repo (https\://raw.github.com/289048093/mvn/mvn-repo/)\: connect timed out
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact net.sf.dozer\:dozer\:jar\:5.5.1 from/to central (https\://repo.maven.apache.org/maven2)\: connect timed out

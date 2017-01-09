@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 22 14:50:53 CST 2015
+https\://repo.maven.apache.org/maven2/.lastUpdated=1450767053465
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1450767044550
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.springframework\:spring-core\:jar\:sources\:4.2.0.RELEASE from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: www.myhost.com
+https\://raw.github.com/289048093/mvn/mvn-repo/.error=
+https\://raw.github.com/289048093/mvn/mvn-repo/.lastUpdated=1450767048731

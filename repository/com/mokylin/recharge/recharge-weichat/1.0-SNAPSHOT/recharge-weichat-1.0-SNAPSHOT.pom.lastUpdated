@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Dec 21 21:19:45 CST 2015
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1450703974621
+@default-mvn-mvn-repo-https\://raw.github.com/289048093/mvn/mvn-repo/.lastUpdated=1450703985725
+https\://raw.github.com/289048093/mvn/mvn-repo/.error=Could not transfer artifact com.mokylin.recharge\:recharge-weichat\:pom\:1.0-SNAPSHOT from/to mvn-mvn-repo (https\://raw.github.com/289048093/mvn/mvn-repo/)\: connect timed out
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact com.mokylin.recharge\:recharge-weichat\:pom\:1.0-SNAPSHOT from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: www.myhost.com

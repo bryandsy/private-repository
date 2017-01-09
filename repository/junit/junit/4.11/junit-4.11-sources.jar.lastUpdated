@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Apr 14 20:50:46 CST 2015
+https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.error=Could not transfer artifact junit\:junit\:jar\:sources\:4.11 from/to thirdparty-releases (https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases)\: repository.jboss.org\: unknown error
+http\://mvn.chentm.com/nexus/content/repositories/mokylin/.error=Could not transfer artifact junit\:junit\:jar\:sources\:4.11 from/to mokylin (http\://mvn.chentm.com/nexus/content/repositories/mokylin)\: mvn.chentm.com\: unknown error
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact junit\:junit\:jar\:sources\:4.11 from/to central (http\://repo.maven.apache.org/maven2)\: repo.maven.apache.org\: unknown error
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1429015846640
+@default-http\://mvn.chentm.com/nexus/content/repositories/mokylin/.lastUpdated=1429015841876
+@default-https\://repository.jboss.org/nexus/content/repositories/thirdparty-releases/.lastUpdated=1429015841860
