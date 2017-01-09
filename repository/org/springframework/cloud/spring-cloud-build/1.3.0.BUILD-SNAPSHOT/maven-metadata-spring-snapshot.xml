@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.springframework.cloud</groupId>
+  <artifactId>spring-cloud-build</artifactId>
+  <version>1.3.0.BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170109.001816</timestamp>
+      <buildNumber>293</buildNumber>
+    </snapshot>
+    <lastUpdated>20170109001816</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom.asc</extension>
+        <value>1.3.0.BUILD-20170109.001816-293</value>
+        <updated>20170109001816</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.3.0.BUILD-20170109.001816-293</value>
+        <updated>20170109001816</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

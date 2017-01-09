@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.springframework.cloud</groupId>
+  <artifactId>spring-cloud-dependencies</artifactId>
+  <version>Dalston.BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170109.021035</timestamp>
+      <buildNumber>529</buildNumber>
+    </snapshot>
+    <lastUpdated>20170109021036</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom.asc</extension>
+        <value>Dalston.BUILD-20170109.021035-529</value>
+        <updated>20170109021035</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>Dalston.BUILD-20170109.021035-529</value>
+        <updated>20170109021035</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

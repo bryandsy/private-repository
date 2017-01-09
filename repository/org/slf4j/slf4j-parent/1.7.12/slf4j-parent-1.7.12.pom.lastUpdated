@@ -1,0 +1,12 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 09 17:42:53 CST 2017
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1483954972135
+http\://repo.spring.io/ext-release-local/.error=
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1483954971187
+http\://repo.spring.io/snapshot/.lastUpdated=1483954973596
+http\://repo.spring.io/snapshot/.error=
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.error=
+http\://repo.spring.io/milestone/.error=
+http\://repo.spring.io/ext-release-local/.lastUpdated=1483954972675
+http\://repo.spring.io/milestone/.lastUpdated=1483954973145
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.slf4j\:slf4j-parent\:pom\:1.7.12 from/to central (https\://repo.maven.apache.org/maven2)\: C\:\\Users\\bryandsy\\.m2\\repository\\org\\slf4j\\slf4j-parent\\1.7.12\\aether-9244afc4-063f-4b31-8395-b8c81e99ac48-slf4j-parent-1.7.12.pom-in-progress (\u7CFB\u7EDF\u627E\u4E0D\u5230\u6307\u5B9A\u7684\u6587\u4EF6\u3002)

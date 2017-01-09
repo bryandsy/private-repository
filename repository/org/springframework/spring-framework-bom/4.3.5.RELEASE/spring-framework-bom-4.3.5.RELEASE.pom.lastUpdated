@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 09 17:57:15 CST 2017
+@default-nexus-http\://192.168.198.131\:9999/content/groups/public/.lastUpdated=1483955824112
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1483955834115
+http\://pele.farmbio.uu.se/artifactory/libs-snapshot/.lastUpdated=1483955835316
+http\://192.168.198.131\:9999/content/groups/public/.error=Could not transfer artifact org.springframework\:spring-framework-bom\:pom\:4.3.5.RELEASE from/to nexus (http\://192.168.198.131\:9999/content/groups/public/)\: connect timed out
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.springframework\:spring-framework-bom\:pom\:4.3.5.RELEASE from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out

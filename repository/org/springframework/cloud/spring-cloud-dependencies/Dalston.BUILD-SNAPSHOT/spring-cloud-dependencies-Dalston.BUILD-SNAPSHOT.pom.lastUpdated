@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 09 17:57:35 CST 2017
+@default-pele.farmbio.uu.se-http\://pele.farmbio.uu.se/artifactory/libs-snapshot/.lastUpdated=1483955855375
+http\://pele.farmbio.uu.se/artifactory/libs-snapshot/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-dependencies\:pom\:Dalston.BUILD-SNAPSHOT from/to pele.farmbio.uu.se (http\://pele.farmbio.uu.se/artifactory/libs-snapshot)\: The operation was cancelled.
+@default-spring-snapshot-http\://repo.spring.io/snapshot/.lastUpdated=1483955855378
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1483955855373
+http\://repo.spring.io/snapshot/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-dependencies\:pom\:Dalston.BUILD-SNAPSHOT from/to spring-snapshot (http\://repo.spring.io/snapshot)\: The operation was cancelled.
+@default-maven.center-https\://mvnrepository.com/artifact/.lastUpdated=1483955855377
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-dependencies\:pom\:Dalston.BUILD-SNAPSHOT from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: The operation was cancelled.
+https\://mvnrepository.com/artifact/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-dependencies\:pom\:Dalston.BUILD-SNAPSHOT from/to maven.center (https\://mvnrepository.com/artifact/)\: The operation was cancelled.

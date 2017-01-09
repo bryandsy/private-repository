@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 09 18:28:08 CST 2017
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1483957684103
+http\://pele.farmbio.uu.se/artifactory/libs-snapshot/.lastUpdated=1483957688161
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.apache.httpcomponents\:httpcomponents-client\:pom\:4.5.2 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out

@@ -1,0 +1,15 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 09 18:58:51 CST 2017
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1483929299612
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1483959531791
+http\://repo.spring.io/snapshot/.lastUpdated=1483929289541
+http\://repo.spring.io/snapshot/.error=
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.error=
+http\://repo.spring.io/milestone/.error=
+http\://repo.spring.io/release/.error=
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1483959528311
+http\://repo.spring.io/milestone/.lastUpdated=1483929289314
+http\://repo.spring.io/release/.lastUpdated=1483929288860
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.apache.logging.log4j\:log4j-bom\:pom\:2.7 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.logging.log4j\:log4j-bom\:pom\:2.7 from/to central (https\://repo.maven.apache.org/maven2)\: \u8FD9\u662F\u5728\u4E3B\u673A\u540D\u89E3\u6790\u65F6\u901A\u5E38\u51FA\u73B0\u7684\u6682\u65F6\u9519\u8BEF\uFF0C\u5B83\u610F\u5473\u7740\u672C\u5730\u670D\u52A1\u5668\u6CA1\u6709\u4ECE\u6743\u5A01\u670D\u52A1\u5668\u4E0A\u6536\u5230\u54CD\u5E94\u3002
+http\://pele.farmbio.uu.se/artifactory/libs-snapshot/.lastUpdated=1483933373537

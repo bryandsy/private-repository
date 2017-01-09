@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 09 18:41:59 CST 2017
+@default-spring-snapshot-http\://repo.spring.io/snapshot/.lastUpdated=1483958519955
+http\://repo.spring.io/snapshot/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-starter-archaius\:jar\:1.3.0.BUILD-20170109.080619-495 from/to spring-snapshot (http\://repo.spring.io/snapshot)\: The operation was cancelled.

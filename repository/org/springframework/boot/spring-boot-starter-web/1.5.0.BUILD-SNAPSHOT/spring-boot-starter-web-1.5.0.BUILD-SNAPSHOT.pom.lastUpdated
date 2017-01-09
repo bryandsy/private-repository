@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 09 18:12:09 CST 2017
+http\://pele.farmbio.uu.se/artifactory/libs-snapshot/.error=
+https\://mvnrepository.com/artifact/.lastUpdated=1483956728552
+http\://repo.spring.io/snapshot/.lastUpdated=1483956729783
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1483956726830
+http\://pele.farmbio.uu.se/artifactory/libs-snapshot/.lastUpdated=1483956727513
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-web\:pom\:1.5.0.BUILD-SNAPSHOT from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+https\://mvnrepository.com/artifact/.error=

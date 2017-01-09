@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.springframework.cloud</groupId>
+  <artifactId>spring-cloud-zookeeper-dependencies</artifactId>
+  <version>1.0.4.BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170106.060331</timestamp>
+      <buildNumber>624</buildNumber>
+    </snapshot>
+    <lastUpdated>20170106060330</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom.asc</extension>
+        <value>1.0.4.BUILD-20170106.060331-624</value>
+        <updated>20170106060331</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.4.BUILD-20170106.060331-624</value>
+        <updated>20170106060331</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

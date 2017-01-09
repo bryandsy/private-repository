@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.springframework.cloud</groupId>
+  <artifactId>spring-cloud-cloudfoundry-dependencies</artifactId>
+  <version>1.0.2.BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170109.005352</timestamp>
+      <buildNumber>851</buildNumber>
+    </snapshot>
+    <lastUpdated>20170109005352</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom.asc</extension>
+        <value>1.0.2.BUILD-20170109.005352-851</value>
+        <updated>20170109005352</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.2.BUILD-20170109.005352-851</value>
+        <updated>20170109005352</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

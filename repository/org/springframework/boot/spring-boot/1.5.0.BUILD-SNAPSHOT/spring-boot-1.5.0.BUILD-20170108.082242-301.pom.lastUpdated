@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 09 18:07:01 CST 2017
+http\://pele.farmbio.uu.se/artifactory/libs-snapshot/.error=
+http\://repo.spring.io/snapshot/.lastUpdated=1483956421505
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1483956409546
+http\://pele.farmbio.uu.se/artifactory/libs-snapshot/.lastUpdated=1483956410213
+@default-maven.center-https\://mvnrepository.com/artifact/.lastUpdated=1483956420688
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.springframework.boot\:spring-boot\:pom\:1.5.0.BUILD-20170108.082242-301 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+https\://mvnrepository.com/artifact/.error=Could not transfer artifact org.springframework.boot\:spring-boot\:pom\:1.5.0.BUILD-20170108.082242-301 from/to maven.center (https\://mvnrepository.com/artifact/)\: \u8FD9\u662F\u5728\u4E3B\u673A\u540D\u89E3\u6790\u65F6\u901A\u5E38\u51FA\u73B0\u7684\u6682\u65F6\u9519\u8BEF\uFF0C\u5B83\u610F\u5473\u7740\u672C\u5730\u670D\u52A1\u5668\u6CA1\u6709\u4ECE\u6743\u5A01\u670D\u52A1\u5668\u4E0A\u6536\u5230\u54CD\u5E94\u3002

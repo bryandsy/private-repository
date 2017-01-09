@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 09 18:41:59 CST 2017
+@default-spring-snapshot-http\://repo.spring.io/snapshot/.lastUpdated=1483958519950
+http\://repo.spring.io/snapshot/.error=Could not transfer artifact org.springframework.boot\:spring-boot-autoconfigure\:jar\:1.5.0.BUILD-20170108.082242-301 from/to spring-snapshot (http\://repo.spring.io/snapshot)\: The operation was cancelled.

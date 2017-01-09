@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 09 18:33:59 CST 2017
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1483958038772
+http\://pele.farmbio.uu.se/artifactory/libs-snapshot/.lastUpdated=1483958039956
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.springframework\:spring-framework-bom\:pom\:4.3.3.RELEASE from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out

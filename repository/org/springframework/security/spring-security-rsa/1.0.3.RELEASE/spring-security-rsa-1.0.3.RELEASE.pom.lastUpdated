@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 09 18:59:30 CST 2017
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.error=
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1483959570761
+https\://repo.maven.apache.org/maven2/.lastUpdated=1483959570947
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1483958072238
+http\://pele.farmbio.uu.se/artifactory/libs-snapshot/.lastUpdated=1483958074394
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.springframework.security\:spring-security-rsa\:pom\:1.0.3.RELEASE from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out

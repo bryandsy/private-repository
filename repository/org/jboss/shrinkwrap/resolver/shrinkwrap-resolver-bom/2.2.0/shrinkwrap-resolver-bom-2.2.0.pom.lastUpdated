@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 09 18:14:08 CST 2017
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1483956847320
+http\://pele.farmbio.uu.se/artifactory/libs-snapshot/.lastUpdated=1483956848322
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.jboss.shrinkwrap.resolver\:shrinkwrap-resolver-bom\:pom\:2.2.0 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out

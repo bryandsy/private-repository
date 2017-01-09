@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 09 12:19:15 CST 2017
+@default-spring-milestone-http\://repo.spring.io/milestone/.lastUpdated=1483935279025
+http\://repo.spring.io/milestone/.error=Could not transfer artifact asm\:asm-commons\:jar\:3.3.1 from/to spring-milestone (http\://repo.spring.io/milestone)\: repo.spring.io
+@default-spring-release-http\://repo.spring.io/release/.lastUpdated=1483935278997
+https\://repo.maven.apache.org/maven2/.lastUpdated=1483935555282
+@default-spring-snapshot-http\://repo.spring.io/snapshot/.lastUpdated=1483935279049
+http\://repo.spring.io/snapshot/.error=Could not transfer artifact asm\:asm-commons\:jar\:3.3.1 from/to spring-snapshot (http\://repo.spring.io/snapshot)\: repo.spring.io
+http\://repo.spring.io/release/.error=Could not transfer artifact asm\:asm-commons\:jar\:3.3.1 from/to spring-release (http\://repo.spring.io/release)\: repo.spring.io

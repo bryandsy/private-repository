@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.springframework.cloud</groupId>
+  <artifactId>spring-cloud-netflix</artifactId>
+  <version>1.3.0.BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170109.020101</timestamp>
+      <buildNumber>598</buildNumber>
+    </snapshot>
+    <lastUpdated>20170109020101</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom.asc</extension>
+        <value>1.3.0.BUILD-20170109.020101-598</value>
+        <updated>20170109020101</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.3.0.BUILD-20170109.020101-598</value>
+        <updated>20170109020101</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

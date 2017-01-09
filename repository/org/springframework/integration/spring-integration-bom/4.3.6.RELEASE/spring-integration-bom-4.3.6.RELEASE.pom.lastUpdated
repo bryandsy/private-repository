@@ -1,0 +1,17 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 09 18:00:13 CST 2017
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1483955855343
+@default-spring-snapshot-http\://repo.spring.io/snapshot/.lastUpdated=1483955855342
+https\://mvnrepository.com/artifact/.error=Could not transfer artifact org.springframework.integration\:spring-integration-bom\:pom\:4.3.6.RELEASE from/to maven.center (https\://mvnrepository.com/artifact/)\: The operation was cancelled.
+@default-nexus-http\://192.168.198.131\:9999/content/groups/public/.lastUpdated=1483955855334
+@default-spring-release-http\://repo.spring.io/release/.lastUpdated=1483955855340
+http\://repo.spring.io/snapshot/.error=Could not transfer artifact org.springframework.integration\:spring-integration-bom\:pom\:4.3.6.RELEASE from/to spring-snapshot (http\://repo.spring.io/snapshot)\: The operation was cancelled.
+@default-maven.center-https\://mvnrepository.com/artifact/.lastUpdated=1483955855339
+http\://repo.spring.io/milestone/.error=Could not transfer artifact org.springframework.integration\:spring-integration-bom\:pom\:4.3.6.RELEASE from/to spring-milestone (http\://repo.spring.io/milestone)\: The operation was cancelled.
+http\://192.168.198.131\:9999/content/groups/public/.error=Could not transfer artifact org.springframework.integration\:spring-integration-bom\:pom\:4.3.6.RELEASE from/to nexus (http\://192.168.198.131\:9999/content/groups/public/)\: The operation was cancelled.
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1483956011191
+http\://repo.spring.io/release/.error=Could not transfer artifact org.springframework.integration\:spring-integration-bom\:pom\:4.3.6.RELEASE from/to spring-release (http\://repo.spring.io/release)\: The operation was cancelled.
+@default-spring-milestone-http\://repo.spring.io/milestone/.lastUpdated=1483955855341
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.springframework.integration\:spring-integration-bom\:pom\:4.3.6.RELEASE from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.integration\:spring-integration-bom\:pom\:4.3.6.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.
+http\://pele.farmbio.uu.se/artifactory/libs-snapshot/.lastUpdated=1483956013579

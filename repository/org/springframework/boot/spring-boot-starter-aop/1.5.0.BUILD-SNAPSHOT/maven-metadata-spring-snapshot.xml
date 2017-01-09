@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.springframework.boot</groupId>
+  <artifactId>spring-boot-starter-aop</artifactId>
+  <version>1.5.0.BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170108.082242</timestamp>
+      <buildNumber>301</buildNumber>
+    </snapshot>
+    <lastUpdated>20170108090334</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom.asc</extension>
+        <value>1.5.0.BUILD-20170108.082242-301</value>
+        <updated>20170108082242</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.5.0.BUILD-20170108.082242-301</value>
+        <updated>20170108082242</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.5.0.BUILD-20170108.082242-301</value>
+        <updated>20170108082242</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar.asc</extension>
+        <value>1.5.0.BUILD-20170108.082242-301</value>
+        <updated>20170108082242</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.5.0.BUILD-20170108.082242-301</value>
+        <updated>20170108082242</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar.asc</extension>
+        <value>1.5.0.BUILD-20170108.082242-301</value>
+        <updated>20170108082242</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

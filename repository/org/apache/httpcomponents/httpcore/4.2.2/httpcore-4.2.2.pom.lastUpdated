@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 09 14:38:55 CST 2017
+@default-spring-milestone-http\://repo.spring.io/milestone/.lastUpdated=1483943934727
+http\://repo.spring.io/milestone/.error=Could not transfer artifact org.apache.httpcomponents\:httpcore\:pom\:4.2.2 from/to spring-milestone (http\://repo.spring.io/milestone)\: repo.spring.io
+@default-spring-release-http\://repo.spring.io/release/.lastUpdated=1483943934725
+https\://repo.maven.apache.org/maven2/.lastUpdated=1483943935317
+@default-spring-snapshot-http\://repo.spring.io/snapshot/.lastUpdated=1483943934728
+http\://repo.spring.io/snapshot/.error=Could not transfer artifact org.apache.httpcomponents\:httpcore\:pom\:4.2.2 from/to spring-snapshot (http\://repo.spring.io/snapshot)\: repo.spring.io
+http\://repo.spring.io/release/.error=Could not transfer artifact org.apache.httpcomponents\:httpcore\:pom\:4.2.2 from/to spring-release (http\://repo.spring.io/release)\: repo.spring.io

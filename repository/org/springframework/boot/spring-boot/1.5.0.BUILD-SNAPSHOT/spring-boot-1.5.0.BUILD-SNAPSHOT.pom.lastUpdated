@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 09 14:45:10 CST 2017
+http\://pele.farmbio.uu.se/artifactory/libs-snapshot/.error=
+https\://mvnrepository.com/artifact/.lastUpdated=1483933414797
+@default-spring-snapshot-http\://repo.spring.io/snapshot/.lastUpdated=1483944310140
+http\://pele.farmbio.uu.se/artifactory/libs-snapshot/.lastUpdated=1483933410622
+http\://repo.spring.io/snapshot/.error=Could not transfer artifact org.springframework.boot\:spring-boot\:pom\:1.5.0.BUILD-SNAPSHOT from/to spring-snapshot (http\://repo.spring.io/snapshot)\: repo.spring.io
+https\://mvnrepository.com/artifact/.error=

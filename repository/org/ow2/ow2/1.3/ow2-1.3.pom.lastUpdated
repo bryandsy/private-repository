@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 09 18:20:59 CST 2017
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1483957257785
+http\://pele.farmbio.uu.se/artifactory/libs-snapshot/.lastUpdated=1483957259586
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.ow2\:ow2\:pom\:1.3 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out

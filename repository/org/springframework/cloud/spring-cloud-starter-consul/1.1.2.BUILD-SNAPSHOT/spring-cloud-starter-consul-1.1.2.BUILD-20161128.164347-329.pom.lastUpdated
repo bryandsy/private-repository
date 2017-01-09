@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 09 18:30:37 CST 2017
+http\://pele.farmbio.uu.se/artifactory/libs-snapshot/.error=
+https\://mvnrepository.com/artifact/.lastUpdated=1483957837407
+http\://repo.spring.io/snapshot/.lastUpdated=1483957837951
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1483957833416
+http\://pele.farmbio.uu.se/artifactory/libs-snapshot/.lastUpdated=1483957834138
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-starter-consul\:pom\:1.1.2.BUILD-20161128.164347-329 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+https\://mvnrepository.com/artifact/.error=

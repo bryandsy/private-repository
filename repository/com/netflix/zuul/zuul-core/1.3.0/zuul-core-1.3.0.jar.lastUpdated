@@ -1,0 +1,16 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 09 18:42:00 CST 2017
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1483958520128
+@default-spring-snapshot-http\://repo.spring.io/snapshot/.lastUpdated=1483958520084
+https\://mvnrepository.com/artifact/.error=Could not transfer artifact com.netflix.zuul\:zuul-core\:jar\:1.3.0 from/to maven.center (https\://mvnrepository.com/artifact/)\: The operation was cancelled.
+@default-pele.farmbio.uu.se-http\://pele.farmbio.uu.se/artifactory/libs-snapshot/.lastUpdated=1483958519873
+@default-spring-release-http\://repo.spring.io/release/.lastUpdated=1483958519975
+http\://pele.farmbio.uu.se/artifactory/libs-snapshot/.error=Could not transfer artifact com.netflix.zuul\:zuul-core\:jar\:1.3.0 from/to pele.farmbio.uu.se (http\://pele.farmbio.uu.se/artifactory/libs-snapshot)\: The operation was cancelled.
+http\://repo.spring.io/snapshot/.error=Could not transfer artifact com.netflix.zuul\:zuul-core\:jar\:1.3.0 from/to spring-snapshot (http\://repo.spring.io/snapshot)\: The operation was cancelled.
+@default-maven.center-https\://mvnrepository.com/artifact/.lastUpdated=1483958519921
+http\://repo.spring.io/milestone/.error=Could not transfer artifact com.netflix.zuul\:zuul-core\:jar\:1.3.0 from/to spring-milestone (http\://repo.spring.io/milestone)\: The operation was cancelled.
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1483958519807
+http\://repo.spring.io/release/.error=Could not transfer artifact com.netflix.zuul\:zuul-core\:jar\:1.3.0 from/to spring-release (http\://repo.spring.io/release)\: The operation was cancelled.
+@default-spring-milestone-http\://repo.spring.io/milestone/.lastUpdated=1483958520023
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact com.netflix.zuul\:zuul-core\:jar\:1.3.0 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: The operation was cancelled.
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.netflix.zuul\:zuul-core\:jar\:1.3.0 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.

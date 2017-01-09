@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.springframework.cloud</groupId>
+  <artifactId>spring-cloud-starter-ribbon</artifactId>
+  <version>1.3.0.BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170109.020630</timestamp>
+      <buildNumber>492</buildNumber>
+    </snapshot>
+    <lastUpdated>20170109020631</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom.asc</extension>
+        <value>1.3.0.BUILD-20170109.020630-492</value>
+        <updated>20170109020630</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>1.3.0.BUILD-20170109.020630-492</value>
+        <updated>20170109020630</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.3.0.BUILD-20170109.020630-492</value>
+        <updated>20170109020630</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar.asc</extension>
+        <value>1.3.0.BUILD-20170109.020630-492</value>
+        <updated>20170109020630</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.3.0.BUILD-20170109.020630-492</value>
+        <updated>20170109020630</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar.asc</extension>
+        <value>1.3.0.BUILD-20170109.020630-492</value>
+        <updated>20170109020630</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
