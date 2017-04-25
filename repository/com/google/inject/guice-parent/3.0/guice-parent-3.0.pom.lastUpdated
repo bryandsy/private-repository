@@ -1,5 +1,8 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Feb 23 11:10:07 CST 2015
+#Mon Mar 27 17:29:41 CST 2017
 http\://repo.maven.apache.org/maven2/.lastUpdated=1424661007773
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1490606981347
 http\://mvn.chentm.com/nexus/content/repositories/mokylin/.lastUpdated=1424661007221
 http\://mvn.chentm.com/nexus/content/repositories/mokylin/.error=
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1490606981028
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact com.google.inject\:guice-parent\:pom\:3.0 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out

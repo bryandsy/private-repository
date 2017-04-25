@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Mar 16 19:33:35 CST 2017
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1489664015397
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact dbschema\:dbschema\:pom\:1.0-SNAPSHOT from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out

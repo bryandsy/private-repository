@@ -1,5 +1,8 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Feb 23 11:10:03 CST 2015
+#Mon Mar 27 16:50:47 CST 2017
 http\://repo.maven.apache.org/maven2/.lastUpdated=1424661003500
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1490604647522
 http\://mvn.chentm.com/nexus/content/repositories/mokylin/.lastUpdated=1424661002932
 http\://mvn.chentm.com/nexus/content/repositories/mokylin/.error=
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1490604647148
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.mockito\:mockito-core\:pom\:1.9.5 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out

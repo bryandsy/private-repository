@@ -1,4 +1,7 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Jan 09 17:49:19 CST 2017
+#Sat Jan 14 12:51:02 CST 2017
+jackson-core-2.4.6.jar>alimaven=
+jackson-core-2.4.6.pom>alimaven=
+jackson-core-2.4.6-sources.jar>alimaven=
 jackson-core-2.4.6.jar>central=
 jackson-core-2.4.6.pom>central=

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jan 11 18:16:29 CST 2017
+https\://repo.maven.apache.org/maven2/.lastUpdated=1484129789131
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484129739183
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact com.google.guava\:guava\:jar\:sources\:21.0-rc2 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out

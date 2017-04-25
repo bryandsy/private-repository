@@ -1,5 +1,7 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Jan 09 18:14:41 CST 2017
+#Sat Jan 14 12:36:22 CST 2017
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1484365166348
 @default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1483956880329
 http\://pele.farmbio.uu.se/artifactory/libs-snapshot/.lastUpdated=1483956881509
 http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.jboss.logging\:jboss-logging\:pom\:3.3.0.Final from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1484368582392

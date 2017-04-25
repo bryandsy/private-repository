@@ -1,5 +1,11 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Dec 11 18:02:38 CST 2015
+#Sat Apr 01 14:46:56 CST 2017
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1489747587302
+https\://mvnrepository.com/artifact/.error=
+https\://raw.github.com/289048093/mvn/mvn-repo/.lastUpdated=1449828157318
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1491029216204
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1489747586899
+https\://mvnrepository.com/artifact/.lastUpdated=1491029216098
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact joda-time\:joda-time\:pom\:2.8.2 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
 https\://repo.maven.apache.org/maven2/.lastUpdated=1449828158602
 https\://raw.github.com/289048093/mvn/mvn-repo/.error=
-https\://raw.github.com/289048093/mvn/mvn-repo/.lastUpdated=1449828157318

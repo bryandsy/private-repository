@@ -1,5 +1,9 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Jan 09 18:23:08 CST 2017
+#Mon Apr 24 10:24:34 CST 2017
+https\://repository.cloudera.com/artifactory/cloudera-repos/.error=
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1484552069970
 @default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1483957386368
+https\://repository.cloudera.com/artifactory/cloudera-repos/.lastUpdated=1493000674128
 http\://pele.farmbio.uu.se/artifactory/libs-snapshot/.lastUpdated=1483957388343
 http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.apache.commons\:commons-parent\:pom\:23 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1493000674196

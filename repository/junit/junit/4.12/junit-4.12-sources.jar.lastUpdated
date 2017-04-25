@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jan 13 10:53:40 CST 2017
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.error=
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1484276011652
+https\://repo.maven.apache.org/maven2/.lastUpdated=1484276020531
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484276011061
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact junit\:junit\:jar\:sources\:4.12 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out

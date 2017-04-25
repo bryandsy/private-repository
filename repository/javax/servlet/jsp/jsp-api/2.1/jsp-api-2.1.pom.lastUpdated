@@ -1,5 +1,9 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 21 15:11:01 CST 2015
+#Sat Jan 14 12:38:04 CST 2017
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1484365648866
 https\://repo.maven.apache.org/maven2/.lastUpdated=1450681861108
-https\://raw.github.com/289048093/mvn/mvn-repo/.error=
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484365648539
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact javax.servlet.jsp\:jsp-api\:pom\:2.1 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
 https\://raw.github.com/289048093/mvn/mvn-repo/.lastUpdated=1450681860705
+https\://raw.github.com/289048093/mvn/mvn-repo/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1484368684355

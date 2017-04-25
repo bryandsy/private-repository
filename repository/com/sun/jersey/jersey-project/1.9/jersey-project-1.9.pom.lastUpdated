@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Apr 24 10:24:56 CST 2017
+https\://repository.cloudera.com/artifactory/cloudera-repos/.error=
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1490607012218
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1490607011934
+https\://repository.cloudera.com/artifactory/cloudera-repos/.lastUpdated=1493000696846
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact com.sun.jersey\:jersey-project\:pom\:1.9 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1493000696932

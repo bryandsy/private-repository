@@ -1,8 +1,9 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Jan 09 18:04:49 CST 2017
+#Sat Jan 14 12:05:17 CST 2017
 14399ca34b73858bd6485939a9872a7cea402a07@default-nexus-http\://192.168.198.131\:9999/content/groups/public/.lastUpdated=1483413694066
 http\://repo.spring.io/snapshot/.lastUpdated=1483956288379
 http\://repo.spring.io/snapshot/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1484366717438
 http\://192.168.198.131\:9999/content/groups/public/.error=Could not transfer artifact org.apache.maven.plugins\:maven-compiler-plugin\:jar\:3.1 from/to nexus (http\://192.168.198.131\:9999/content/groups/public/)\: connect timed out
 http\://repo.spring.io/milestone/.error=
 http\://repo.spring.io/release/.error=

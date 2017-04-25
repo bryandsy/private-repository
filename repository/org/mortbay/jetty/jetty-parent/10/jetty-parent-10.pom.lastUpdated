@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Apr 24 10:15:17 CST 2017
+https\://repository.cloudera.com/artifactory/cloudera-repos/.error=
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1490606365909
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1490606365618
+https\://repository.cloudera.com/artifactory/cloudera-repos/.lastUpdated=1493000117366
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.mortbay.jetty\:jetty-parent\:pom\:10 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1493000117489

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jan 12 17:58:42 CST 2017
+https\://repo.maven.apache.org/maven2/.lastUpdated=1484215122931
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484215082770
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.javassist\:javassist\:jar\:sources\:3.20.0-GA from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out

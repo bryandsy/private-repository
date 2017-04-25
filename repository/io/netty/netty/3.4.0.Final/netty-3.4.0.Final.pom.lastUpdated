@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Mar 27 17:32:50 CST 2017
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.error=
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1490607170263
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1490607169880
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact io.netty\:netty\:pom\:3.4.0.Final from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1490607170492

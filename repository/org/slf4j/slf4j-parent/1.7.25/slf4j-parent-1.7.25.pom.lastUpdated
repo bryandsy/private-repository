@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Apr 01 15:13:14 CST 2017
+https\://mvnrepository.com/artifact/.lastUpdated=1491030793924
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.error=
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1491030794281
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1491030791272
+https\://mvnrepository.com/artifact/.error=
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.slf4j\:slf4j-parent\:pom\:1.7.25 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1491030794520

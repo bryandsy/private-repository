@@ -1,5 +1,8 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Jan 09 10:35:03 CST 2017
+#Tue Jan 10 09:24:35 CST 2017
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1484011475595
 http\://repo.spring.io/release/.lastUpdated=1483929302794
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484011475315
 http\://repo.spring.io/milestone/.lastUpdated=1483929303378
 http\://repo.spring.io/release/.error=
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.springframework.data.build\:spring-data-build\:pom\:1.9.0.RC1 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: www.myhost.com

@@ -1,5 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Jan 09 14:45:10 CST 2017
+#Tue Jan 10 09:38:29 CST 2017
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1484012309741
 https\://mvnrepository.com/artifact/.error=
 http\://repo.spring.io/snapshot/.lastUpdated=1483933558214
 http\://pele.farmbio.uu.se/artifactory/libs-snapshot/.error=
@@ -7,8 +8,10 @@ http\://pele.farmbio.uu.se/artifactory/libs-snapshot/.error=
 http\://repo.spring.io/snapshot/.error=
 http\://repo.spring.io/milestone/.error=Could not transfer artifact org.springframework.retry\:spring-retry\:pom\:1.2.0.RC1 from/to spring-milestone (http\://repo.spring.io/milestone)\: repo.spring.io
 http\://repo.spring.io/release/.error=Could not transfer artifact org.springframework.retry\:spring-retry\:pom\:1.2.0.RC1 from/to spring-release (http\://repo.spring.io/release)\: repo.spring.io
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484012309378
 @default-spring-milestone-http\://repo.spring.io/milestone/.lastUpdated=1483944310428
 https\://mvnrepository.com/artifact/.lastUpdated=1483933547499
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.springframework.retry\:spring-retry\:pom\:1.2.0.RC1 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
 https\://repo.maven.apache.org/maven2/.lastUpdated=1483933560786
 https\://repo.maven.apache.org/maven2/.error=
 http\://pele.farmbio.uu.se/artifactory/libs-snapshot/.lastUpdated=1483933543970

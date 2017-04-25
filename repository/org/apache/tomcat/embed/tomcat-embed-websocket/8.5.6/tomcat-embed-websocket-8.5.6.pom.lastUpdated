@@ -1,5 +1,7 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Jan 09 18:13:08 CST 2017
-@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1483956784372
+#Sat Jan 14 12:13:30 CST 2017
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1484011712251
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484011711919
 http\://pele.farmbio.uu.se/artifactory/libs-snapshot/.lastUpdated=1483956788377
 http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.apache.tomcat.embed\:tomcat-embed-websocket\:pom\:8.5.6 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1484367210139

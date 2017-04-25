@@ -1,4 +1,7 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Jan 09 12:02:10 CST 2017
+#Mon Jan 16 15:41:04 CST 2017
+jersey-core-1.19.1-sources.jar>alimaven=
+jersey-core-1.19.1.pom>test=
+jersey-core-1.19.1.jar>test=
 jersey-core-1.19.1.jar>pele.farmbio.uu.se=
 jersey-core-1.19.1.pom>central=

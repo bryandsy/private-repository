@@ -1,9 +1,10 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Jan 03 11:22:34 CST 2017
+#Sat Jan 14 12:37:03 CST 2017
 https\://repo.maven.apache.org/maven2/.lastUpdated=1450694231815
 @default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1450694230042
 http\://192.168.198.131\:9999/content/groups/public/.error=Could not transfer artifact log4j\:log4j\:pom\:1.2.17 from/to nexus (http\://192.168.198.131\:9999/content/groups/public/)\: connect timed out
 14399ca34b73858bd6485939a9872a7cea402a07@default-nexus-http\://192.168.198.131\:9999/content/groups/public/.lastUpdated=1483413754196
-https\://raw.github.com/289048093/mvn/mvn-repo/.lastUpdated=1450694231398
-https\://raw.github.com/289048093/mvn/mvn-repo/.error=
 http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact log4j\:log4j\:pom\:1.2.17 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: www.myhost.com
+https\://raw.github.com/289048093/mvn/mvn-repo/.error=
+https\://raw.github.com/289048093/mvn/mvn-repo/.lastUpdated=1450694231398
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1484368623754

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Mar 27 17:28:17 CST 2017
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1490606897525
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1490606897189
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.fusesource\:fusesource-pom\:pom\:1.9 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out

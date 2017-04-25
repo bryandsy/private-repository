@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jan 12 18:16:20 CST 2017
+https\://repo.maven.apache.org/maven2/.lastUpdated=1484216180448
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484216161816
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.hibernate.javax.persistence\:hibernate-jpa-2.1-api\:jar\:sources\:1.0.0.Final from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out

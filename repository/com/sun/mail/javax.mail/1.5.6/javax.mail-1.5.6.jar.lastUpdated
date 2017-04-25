@@ -1,5 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Jan 09 18:55:22 CST 2017
-@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1483959309566
+#Tue Jan 10 09:57:53 CST 2017
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1484013473887
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484013432973
 http\://pele.farmbio.uu.se/artifactory/libs-snapshot/.lastUpdated=1483959322259
 http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact com.sun.mail\:javax.mail\:jar\:1.5.6 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out

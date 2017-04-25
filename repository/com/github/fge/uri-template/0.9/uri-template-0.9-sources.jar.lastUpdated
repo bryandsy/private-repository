@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Jan 14 14:11:45 CST 2017
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484374305064
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact com.github.fge\:uri-template\:jar\:sources\:0.9 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1484374305237

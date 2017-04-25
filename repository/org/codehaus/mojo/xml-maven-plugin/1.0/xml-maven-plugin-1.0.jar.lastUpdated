@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jan 10 09:17:18 CST 2017
+@default-spring-milestone-http\://repo.spring.io/milestone/.lastUpdated=1484011038157
+http\://repo.spring.io/milestone/.error=Could not transfer artifact org.codehaus.mojo\:xml-maven-plugin\:jar\:1.0 from/to spring-milestone (http\://repo.spring.io/milestone)\: repo.spring.io
+@default-spring-release-http\://repo.spring.io/release/.lastUpdated=1484011038154
+https\://repo.maven.apache.org/maven2/.lastUpdated=1484011038586
+@default-spring-snapshot-http\://repo.spring.io/snapshot/.lastUpdated=1484011038158
+http\://repo.spring.io/snapshot/.error=Could not transfer artifact org.codehaus.mojo\:xml-maven-plugin\:jar\:1.0 from/to spring-snapshot (http\://repo.spring.io/snapshot)\: repo.spring.io
+http\://repo.spring.io/release/.error=Could not transfer artifact org.codehaus.mojo\:xml-maven-plugin\:jar\:1.0 from/to spring-release (http\://repo.spring.io/release)\: repo.spring.io

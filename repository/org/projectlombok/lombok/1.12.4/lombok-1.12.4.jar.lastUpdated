@@ -1,5 +1,9 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Dec 11 17:49:44 CST 2015
+#Sat Jan 14 12:47:28 CST 2017
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1484366714779
 https\://repo.maven.apache.org/maven2/.lastUpdated=1449827384447
-https\://raw.github.com/289048093/mvn/mvn-repo/.error=
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484366692100
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.projectlombok\:lombok\:jar\:1.12.4 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
 https\://raw.github.com/289048093/mvn/mvn-repo/.lastUpdated=1449826565049
+https\://raw.github.com/289048093/mvn/mvn-repo/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1484369248549

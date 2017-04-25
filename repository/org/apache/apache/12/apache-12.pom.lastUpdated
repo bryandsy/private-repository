@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Mar 27 17:27:14 CST 2017
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1490606834214
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1490606833798
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.apache\:apache\:pom\:12 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out

@@ -1,5 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Jan 09 18:21:10 CST 2017
-@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1483957269590
+#Tue Jan 10 09:40:01 CST 2017
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1484012401571
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484012401016
 http\://pele.farmbio.uu.se/artifactory/libs-snapshot/.lastUpdated=1483957270657
 http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.assertj\:assertj-core\:pom\:2.6.0 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out

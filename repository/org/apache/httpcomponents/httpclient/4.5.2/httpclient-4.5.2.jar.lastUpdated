@@ -1,5 +1,5 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Jan 09 18:42:00 CST 2017
+#Sat Jan 14 12:47:28 CST 2017
 @default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1483958520134
 @default-spring-snapshot-http\://repo.spring.io/snapshot/.lastUpdated=1483958520089
 https\://mvnrepository.com/artifact/.error=Could not transfer artifact org.apache.httpcomponents\:httpclient\:jar\:4.5.2 from/to maven.center (https\://mvnrepository.com/artifact/)\: The operation was cancelled.
@@ -8,9 +8,10 @@ https\://mvnrepository.com/artifact/.error=Could not transfer artifact org.apach
 http\://pele.farmbio.uu.se/artifactory/libs-snapshot/.error=Could not transfer artifact org.apache.httpcomponents\:httpclient\:jar\:4.5.2 from/to pele.farmbio.uu.se (http\://pele.farmbio.uu.se/artifactory/libs-snapshot)\: The operation was cancelled.
 http\://repo.spring.io/snapshot/.error=Could not transfer artifact org.apache.httpcomponents\:httpclient\:jar\:4.5.2 from/to spring-snapshot (http\://repo.spring.io/snapshot)\: The operation was cancelled.
 @default-maven.center-https\://mvnrepository.com/artifact/.lastUpdated=1483958519926
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1484369248256
 http\://repo.spring.io/milestone/.error=Could not transfer artifact org.apache.httpcomponents\:httpclient\:jar\:4.5.2 from/to spring-milestone (http\://repo.spring.io/milestone)\: The operation was cancelled.
-@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1483958519819
 http\://repo.spring.io/release/.error=Could not transfer artifact org.apache.httpcomponents\:httpclient\:jar\:4.5.2 from/to spring-release (http\://repo.spring.io/release)\: The operation was cancelled.
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1483958519819
 @default-spring-milestone-http\://repo.spring.io/milestone/.lastUpdated=1483958520029
 http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.apache.httpcomponents\:httpclient\:jar\:4.5.2 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: The operation was cancelled.
 https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.httpcomponents\:httpclient\:jar\:4.5.2 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.

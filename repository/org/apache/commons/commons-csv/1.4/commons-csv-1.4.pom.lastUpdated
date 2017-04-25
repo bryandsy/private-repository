@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Feb 09 10:09:29 CST 2017
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.error=
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1486606168282
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1486606163157
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.apache.commons\:commons-csv\:pom\:1.4 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1486606169044

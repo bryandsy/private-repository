@@ -1,5 +1,8 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 14 18:19:39 CST 2015
+#Sat Jan 14 12:38:14 CST 2017
 https\://repo.maven.apache.org/maven2/.lastUpdated=1450088379640
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484368694397
 https\://raw.github.com/289048093/mvn/mvn-repo/.error=
 https\://raw.github.com/289048093/mvn/mvn-repo/.lastUpdated=1450088379026
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.springframework\:spring-web\:pom\:4.2.0.RELEASE from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1484368694433

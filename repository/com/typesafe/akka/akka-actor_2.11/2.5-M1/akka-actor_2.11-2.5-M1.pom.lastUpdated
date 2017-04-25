@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Feb 17 18:28:00 CST 2017
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.error=
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1487327280325
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1487327279554
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact com.typesafe.akka\:akka-actor_2.11\:pom\:2.5-M1 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1487327280740

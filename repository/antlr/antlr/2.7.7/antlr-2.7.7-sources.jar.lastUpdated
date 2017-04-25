@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Jan 14 12:51:49 CST 2017
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1484369509566
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1484215133301
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484215132974
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact antlr\:antlr\:jar\:sources\:2.7.7 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+https\://repo.maven.apache.org/maven2/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1484369260693

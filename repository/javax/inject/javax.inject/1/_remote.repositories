@@ -1,4 +1,7 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Jan 06 11:49:04 CST 2017
+#Sat Jan 14 12:05:25 CST 2017
 javax.inject-1.jar>central=
 javax.inject-1.pom>central=
+javax.inject-1-sources.jar>central=
+javax.inject-1.jar>alimaven=
+javax.inject-1.pom>alimaven=

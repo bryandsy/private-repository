@@ -1,3 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Jan 09 10:35:04 CST 2017
+#Mon Jan 16 15:34:05 CST 2017
+spring-security-bom-4.2.1.RELEASE.pom>alimaven=
+spring-security-bom-4.2.1.RELEASE.pom>test=
+spring-security-bom-4.2.1.RELEASE.pom>central=
 spring-security-bom-4.2.1.RELEASE.pom>spring-release=

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Mar 17 18:56:15 CST 2017
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1489748175094
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1489748165830
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact joda-time\:joda-time\:jar\:2.8.2 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out

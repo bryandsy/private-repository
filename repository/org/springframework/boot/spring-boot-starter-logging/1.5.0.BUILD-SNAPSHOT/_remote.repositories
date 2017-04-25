@@ -1,4 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Jan 09 11:51:56 CST 2017
+#Tue Jan 10 09:57:53 CST 2017
 spring-boot-starter-logging-1.5.0.BUILD-SNAPSHOT.pom>spring-snapshot=
+spring-boot-starter-logging-1.5.0.BUILD-SNAPSHOT.pom>test=
+spring-boot-starter-logging-1.5.0.BUILD-SNAPSHOT.jar>test=
 spring-boot-starter-logging-1.5.0.BUILD-SNAPSHOT.jar>spring-snapshot=

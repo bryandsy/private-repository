@@ -1,3 +1,5 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Jan 03 11:04:30 CST 2017
+#Sat Jan 14 12:55:13 CST 2017
 cassandra-driver-core-3.1.2.pom>central=
+cassandra-driver-core-3.1.2-sources.jar>alimaven=
+cassandra-driver-core-3.1.2.pom>test=

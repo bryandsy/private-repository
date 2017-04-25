@@ -146,6 +146,18 @@ under the License.
    | server for that repository.
    |-->
   <mirrors>
+  	<mirror>  
+		<id>alimaven</id>  
+		<name>aliyun maven</name>  
+		<url>http://maven.aliyun.com/nexus/content/groups/public/</url>  
+		<mirrorOf>central</mirrorOf>          
+	</mirror>  
+	<mirror>      
+		<id>ibiblio</id>      
+		<mirrorOf>central</mirrorOf>      
+		<name>Human Readable Name for this Mirror.</name>      
+		<url>http://mirrors.ibiblio.org/pub/mirrors/maven2/</url>      
+	</mirror>    
   	<!--
   	<mirror>
 		<id>repo2</id>
@@ -303,12 +315,12 @@ under the License.
       </activation>
 
       <repositories>
-        <repository>
-          <id>jdk18</id>
-          <name>Repository for JDK 1.8 builds</name>
-          <url>http://www.myhost.com/maven/jdk18</url>
-          <layout>default</layout>
-        </repository>
+<!--         <repository> -->
+<!--           <id>jdk18</id> -->
+<!--           <name>Repository for JDK 1.8 builds</name> -->
+<!--           <url>http://www.myhost.com/maven/jdk18</url> -->
+<!--           <layout>default</layout> -->
+<!--         </repository> -->
       </repositories>
     </profile>
     <profile>

@@ -1,5 +1,11 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Dec 11 18:00:45 CST 2015
+#Mon Apr 24 10:22:39 CST 2017
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1490606709641
+https\://raw.github.com/289048093/mvn/mvn-repo/.lastUpdated=1449828040887
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1493000559318
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1490606709312
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact commons-codec\:commons-codec\:pom\:1.6 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
 https\://repo.maven.apache.org/maven2/.lastUpdated=1449828045358
 https\://raw.github.com/289048093/mvn/mvn-repo/.error=
-https\://raw.github.com/289048093/mvn/mvn-repo/.lastUpdated=1449828040887
+https\://repository.cloudera.com/artifactory/cloudera-repos/.lastUpdated=1493000559214
+https\://repository.cloudera.com/artifactory/cloudera-repos/.error=

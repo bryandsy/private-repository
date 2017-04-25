@@ -1,5 +1,11 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Feb 23 11:11:32 CST 2015
-http\://repo.maven.apache.org/maven2/.lastUpdated=1424661092517
+#Sat Apr 01 14:46:57 CST 2017
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1490943390584
+https\://mvnrepository.com/artifact/.error=
 http\://mvn.chentm.com/nexus/content/repositories/mokylin/.lastUpdated=1424661091982
+http\://repo.maven.apache.org/maven2/.lastUpdated=1424661092517
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1491029217187
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1490943389349
 http\://mvn.chentm.com/nexus/content/repositories/mokylin/.error=
+https\://mvnrepository.com/artifact/.lastUpdated=1491029217092
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.slf4j\:slf4j-api\:pom\:1.6.2 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out

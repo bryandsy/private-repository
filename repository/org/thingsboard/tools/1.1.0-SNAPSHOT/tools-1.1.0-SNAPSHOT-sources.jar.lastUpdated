@@ -1,0 +1,12 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Jan 14 13:25:27 CST 2017
+https\://oss.sonatype.org/content/groups/public/.error=
+https\://oss.sonatype.org/content/groups/public/.lastUpdated=1484371527163
+https\://repo.spring.io/snapshot/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1484371523539
+https\://repo.spring.io/snapshot/.lastUpdated=1484371524771
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484371523502
+http\://repo.typesafe.com/typesafe/releases/.lastUpdated=1484371525761
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.thingsboard\:tools\:jar\:sources\:1.1.0-SNAPSHOT from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+http\://repo.typesafe.com/typesafe/releases/.error=

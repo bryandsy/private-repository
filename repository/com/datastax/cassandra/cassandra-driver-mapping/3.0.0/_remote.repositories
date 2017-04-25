@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Jan 14 14:13:18 CST 2017
+cassandra-driver-mapping-3.0.0.jar>alimaven=
+cassandra-driver-mapping-3.0.0.pom>alimaven=
+cassandra-driver-mapping-3.0.0.jar>central=
+cassandra-driver-mapping-3.0.0.pom>central=
+cassandra-driver-mapping-3.0.0-sources.jar>alimaven=

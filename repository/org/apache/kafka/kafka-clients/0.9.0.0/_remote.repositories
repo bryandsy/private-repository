@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Jan 14 14:16:00 CST 2017
+kafka-clients-0.9.0.0.jar>alimaven=
+kafka-clients-0.9.0.0.pom>alimaven=
+kafka-clients-0.9.0.0-sources.jar>alimaven=

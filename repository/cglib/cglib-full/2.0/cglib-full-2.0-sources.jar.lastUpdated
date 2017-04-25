@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Jan 14 12:47:43 CST 2017
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1484217042873
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484217042553
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact cglib\:cglib-full\:jar\:sources\:2.0 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1484369263474
+https\://repo.maven.apache.org/maven2/.error=

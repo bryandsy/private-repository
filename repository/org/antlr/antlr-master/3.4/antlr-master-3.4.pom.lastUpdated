@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Apr 24 10:19:14 CST 2017
+https\://repository.cloudera.com/artifactory/cloudera-repos/.error=
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1484012061870
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484012061504
+https\://repository.cloudera.com/artifactory/cloudera-repos/.lastUpdated=1493000354695
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.antlr\:antlr-master\:pom\:3.4 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1493000354768

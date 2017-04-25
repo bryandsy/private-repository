@@ -1,5 +1,8 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Jan 09 18:21:32 CST 2017
-@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1483957291975
+#Sat Jan 14 12:10:09 CST 2017
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1484012422175
+http\://repo1.maven.org/maven2/.lastUpdated=1484296964349
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484012421897
 http\://pele.farmbio.uu.se/artifactory/libs-snapshot/.lastUpdated=1483957292966
 http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.hamcrest\:hamcrest-library\:pom\:1.3 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1484367009575

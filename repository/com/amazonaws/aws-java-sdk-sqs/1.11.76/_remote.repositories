@@ -1,4 +1,7 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Jan 06 17:43:17 CST 2017
+#Sat Jan 14 12:47:28 CST 2017
 aws-java-sdk-sqs-1.11.76.jar>central=
 aws-java-sdk-sqs-1.11.76.pom>central=
+aws-java-sdk-sqs-1.11.76.jar>alimaven=
+aws-java-sdk-sqs-1.11.76-sources.jar>central=
+aws-java-sdk-sqs-1.11.76.pom>alimaven=

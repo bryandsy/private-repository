@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jan 12 18:37:26 CST 2017
+https\://repo.maven.apache.org/maven2/.lastUpdated=1484217446572
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484217443420
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.apache.logging.log4j\:log4j-api\:jar\:sources\:2.2 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out

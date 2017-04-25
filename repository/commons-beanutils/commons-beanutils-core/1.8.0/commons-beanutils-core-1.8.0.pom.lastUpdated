@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Apr 24 10:29:03 CST 2017
+https\://repository.cloudera.com/artifactory/cloudera-repos/.error=
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1490606502422
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1490606502130
+https\://repository.cloudera.com/artifactory/cloudera-repos/.lastUpdated=1493000943763
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact commons-beanutils\:commons-beanutils-core\:pom\:1.8.0 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1493000943840

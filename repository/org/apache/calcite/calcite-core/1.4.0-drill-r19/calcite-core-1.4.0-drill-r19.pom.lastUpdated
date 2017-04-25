@@ -1,0 +1,15 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Mar 27 16:51:24 CST 2017
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1490604678701
+http\://conjars.org/repo/.lastUpdated=1490604680829
+http\://repository.mapr.com/nexus/content/repositories/drill/.lastUpdated=1490604684760
+http\://conjars.org/repo/.error=
+http\://repo.dremio.com/release/.lastUpdated=1490604682158
+http\://repository.mapr.com/maven/.error=
+http\://repository.mapr.com/maven/.lastUpdated=1490604681647
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1490604680007
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.error=
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1490604678344
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.apache.calcite\:calcite-core\:pom\:1.4.0-drill-r19 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+http\://repo.dremio.com/release/.error=

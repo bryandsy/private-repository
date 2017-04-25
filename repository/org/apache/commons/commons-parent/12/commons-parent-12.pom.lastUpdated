@@ -1,5 +1,11 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Feb 23 11:10:16 CST 2015
-http\://repo.maven.apache.org/maven2/.lastUpdated=1424661016663
+#Mon Apr 24 10:12:20 CST 2017
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1490604744435
 http\://mvn.chentm.com/nexus/content/repositories/mokylin/.lastUpdated=1424661016112
+http\://repo.maven.apache.org/maven2/.lastUpdated=1424661016663
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1492999940742
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1490604743889
 http\://mvn.chentm.com/nexus/content/repositories/mokylin/.error=
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.apache.commons\:commons-parent\:pom\:12 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+https\://repository.cloudera.com/artifactory/cloudera-repos/.lastUpdated=1492999940654
+https\://repository.cloudera.com/artifactory/cloudera-repos/.error=

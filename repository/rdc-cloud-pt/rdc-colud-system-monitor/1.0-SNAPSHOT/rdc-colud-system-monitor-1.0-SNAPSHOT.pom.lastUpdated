@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Mar 16 19:33:55 CST 2017
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1489664035417
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact rdc-cloud-pt\:rdc-colud-system-monitor\:pom\:1.0-SNAPSHOT from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out

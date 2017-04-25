@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jan 12 17:33:43 CST 2017
+https\://repo.maven.apache.org/maven2/.lastUpdated=1484213623301
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484213178923
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact software.amazon.ion\:ion-java\:jar\:sources\:1.0.1 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Jan 14 12:21:13 CST 2017
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484367673483
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.springframework\:spring-context-support\:pom\:4.3.4.RELEASE from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1484367673573

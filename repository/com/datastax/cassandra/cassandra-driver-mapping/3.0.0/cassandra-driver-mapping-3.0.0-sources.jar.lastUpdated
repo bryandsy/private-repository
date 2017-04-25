@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Jan 14 14:13:18 CST 2017
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484374397866
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact com.datastax.cassandra\:cassandra-driver-mapping\:jar\:sources\:3.0.0 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1484374398041

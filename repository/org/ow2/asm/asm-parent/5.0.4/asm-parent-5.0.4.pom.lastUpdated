@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Apr 01 14:46:55 CST 2017
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1484012237995
+https\://mvnrepository.com/artifact/.lastUpdated=1491029215602
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484012237670
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.ow2.asm\:asm-parent\:pom\:5.0.4 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+https\://mvnrepository.com/artifact/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1491029215732

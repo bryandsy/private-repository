@@ -1,0 +1,15 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Jan 14 13:03:29 CST 2017
+@default-typesafe-http\://repo.typesafe.com/typesafe/releases/.lastUpdated=1484302635896
+@default-central-http\://repo1.maven.org/maven2/.lastUpdated=1484302635755
+https\://oss.sonatype.org/content/groups/public/.error=Could not transfer artifact org.eclipse.jdt.core.compiler\:ecj\:jar\:4.4.2 from/to sonatype (https\://oss.sonatype.org/content/groups/public)\: The operation was cancelled.
+https\://repo.spring.io/snapshot/.error=Could not transfer artifact org.eclipse.jdt.core.compiler\:ecj\:jar\:4.4.2 from/to spring-snapshots (https\://repo.spring.io/snapshot)\: The operation was cancelled.
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1484370209691
+@default-sonatype-https\://oss.sonatype.org/content/groups/public/.lastUpdated=1484302635927
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484297958067
+@default-spring-milestones-https\://repo.spring.io/milestone/.lastUpdated=1484302635866
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.eclipse.jdt.core.compiler\:ecj\:jar\:4.4.2 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+https\://repo.spring.io/milestone/.error=Could not transfer artifact org.eclipse.jdt.core.compiler\:ecj\:jar\:4.4.2 from/to spring-milestones (https\://repo.spring.io/milestone)\: The operation was cancelled.
+http\://repo.typesafe.com/typesafe/releases/.error=Could not transfer artifact org.eclipse.jdt.core.compiler\:ecj\:jar\:4.4.2 from/to typesafe (http\://repo.typesafe.com/typesafe/releases/)\: The operation was cancelled.
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.eclipse.jdt.core.compiler\:ecj\:jar\:4.4.2 from/to central (http\://repo1.maven.org/maven2/)\: The operation was cancelled.
+@default-spring-snapshots-https\://repo.spring.io/snapshot/.lastUpdated=1484302635802

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jan 12 18:34:09 CST 2017
+https\://repo.maven.apache.org/maven2/.lastUpdated=1484217249596
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484217248473
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.springframework\:spring-oxm\:jar\:sources\:4.2.0.RELEASE from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out

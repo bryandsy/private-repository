@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Jan 14 13:13:34 CST 2017
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484370814344
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.springframework\:spring-webmvc\:jar\:sources\:4.3.4.RELEASE from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1484370814931

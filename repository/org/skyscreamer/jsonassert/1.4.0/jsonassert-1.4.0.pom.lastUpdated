@@ -1,5 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Jan 09 18:21:43 CST 2017
-@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1483957302970
+#Tue Jan 10 09:40:32 CST 2017
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1484012432455
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484012432177
 http\://pele.farmbio.uu.se/artifactory/libs-snapshot/.lastUpdated=1483957303947
 http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.skyscreamer\:jsonassert\:pom\:1.4.0 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out

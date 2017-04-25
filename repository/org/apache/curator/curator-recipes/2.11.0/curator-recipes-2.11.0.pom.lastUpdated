@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Jan 14 12:22:24 CST 2017
+http\://repo1.maven.org/maven2/.lastUpdated=1484296999229
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484296998591
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.apache.curator\:curator-recipes\:pom\:2.11.0 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1484367744230

@@ -1,5 +1,11 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Feb 23 11:11:25 CST 2015
-http\://repo.maven.apache.org/maven2/.lastUpdated=1424661085384
+#Sat Apr 01 14:46:55 CST 2017
+http\://www.myhost.com/maven/jdk18/.lastUpdated=1484552088412
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1484552088714
+https\://mvnrepository.com/artifact/.error=
 http\://mvn.chentm.com/nexus/content/repositories/mokylin/.lastUpdated=1424661084819
+http\://repo.maven.apache.org/maven2/.lastUpdated=1424661085384
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1491029215243
 http\://mvn.chentm.com/nexus/content/repositories/mokylin/.error=
+https\://mvnrepository.com/artifact/.lastUpdated=1491029215104
+http\://www.myhost.com/maven/jdk18/.error=

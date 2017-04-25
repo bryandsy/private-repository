@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jan 12 18:33:29 CST 2017
+https\://repo.maven.apache.org/maven2/.lastUpdated=1484217209550
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484217205611
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact javax.servlet\:javax.servlet-api\:jar\:sources\:3.1.0 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out

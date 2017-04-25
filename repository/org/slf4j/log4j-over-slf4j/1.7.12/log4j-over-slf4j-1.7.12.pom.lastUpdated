@@ -1,5 +1,8 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Jan 09 17:42:56 CST 2017
+#Sat Jan 14 11:34:18 CST 2017
 https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1483954976030
 https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.error=
 https\://repo.maven.apache.org/maven2/.lastUpdated=1483954976899
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484364858529
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.slf4j\:log4j-over-slf4j\:pom\:1.7.12 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1484364858572

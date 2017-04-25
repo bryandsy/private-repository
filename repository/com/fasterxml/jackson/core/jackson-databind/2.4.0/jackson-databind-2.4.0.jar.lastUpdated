@@ -1,5 +1,8 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 14 18:54:57 CST 2015
+#Sat Jan 14 12:47:29 CST 2017
 https\://repo.maven.apache.org/maven2/.lastUpdated=1450090497965
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484369245408
 https\://raw.github.com/289048093/mvn/mvn-repo/.error=
 https\://raw.github.com/289048093/mvn/mvn-repo/.lastUpdated=1450088515494
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact com.fasterxml.jackson.core\:jackson-databind\:jar\:2.4.0 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1484369249204

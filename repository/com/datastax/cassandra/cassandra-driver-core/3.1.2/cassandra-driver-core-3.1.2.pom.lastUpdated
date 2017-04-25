@@ -1,4 +1,7 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Jan 03 11:22:14 CST 2017
+#Sat Jan 14 11:51:20 CST 2017
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1484365880110
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484365879571
 http\://192.168.198.131\:9999/content/groups/public/.error=Could not transfer artifact com.datastax.cassandra\:cassandra-driver-core\:pom\:3.1.2 from/to nexus (http\://192.168.198.131\:9999/content/groups/public/)\: connect timed out
 14399ca34b73858bd6485939a9872a7cea402a07@default-nexus-http\://192.168.198.131\:9999/content/groups/public/.lastUpdated=1483413734181
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact com.datastax.cassandra\:cassandra-driver-core\:pom\:3.1.2 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out

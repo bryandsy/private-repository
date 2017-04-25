@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Mar 27 16:53:39 CST 2017
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+http\://conjars.org/repo/.lastUpdated=1490604819851
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1490604818494
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.error=
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1490604818122
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.pentaho\:pentaho-aggdesigner-algorithm\:pom\:5.1.5-jhyde from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1490604818539

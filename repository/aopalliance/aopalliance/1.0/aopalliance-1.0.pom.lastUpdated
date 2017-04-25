@@ -1,5 +1,9 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Feb 23 11:10:10 CST 2015
+#Sat Jan 14 12:05:24 CST 2017
 http\://repo.maven.apache.org/maven2/.lastUpdated=1424661010542
 http\://mvn.chentm.com/nexus/content/repositories/mokylin/.lastUpdated=1424661009994
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1484364758012
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484364756867
 http\://mvn.chentm.com/nexus/content/repositories/mokylin/.error=
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact aopalliance\:aopalliance\:pom\:1.0 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1484366724176

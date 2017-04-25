@@ -1,0 +1,13 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Mar 27 18:29:02 CST 2017
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1490608668496
+http\://conjars.org/repo/.lastUpdated=1490608758769
+http\://conjars.org/repo/.error=
+http\://repo.dremio.com/release/.lastUpdated=1490610542559
+http\://repository.mapr.com/maven/.error=
+http\://repository.mapr.com/maven/.lastUpdated=1490608774655
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1490608735503
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.error=
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1490608615971
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.apache.parquet\:parquet-encoding\:jar\:1.8.1-drill-r0 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out

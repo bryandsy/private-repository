@@ -1,5 +1,7 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Jan 09 18:08:57 CST 2017
-@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1483956535402
+#Mon Jan 16 15:23:14 CST 2017
+https\://repo.spring.io/libs-release/.lastUpdated=1484551394509
+https\://raw.githubusercontent.com/bryandsy/private-repository/master/repository/.lastUpdated=1484011608597
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484011608285
 http\://pele.farmbio.uu.se/artifactory/libs-snapshot/.lastUpdated=1483956537083
 http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact ch.qos.logback\:logback-classic\:pom\:1.1.8 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out

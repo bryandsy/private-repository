@@ -1,7 +1,8 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 21 18:38:56 CST 2015
+#Sat Jan 14 12:40:05 CST 2017
 https\://repo.maven.apache.org/maven2/.lastUpdated=1450694336051
 @default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1450694334139
-http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.apache\:apache\:pom\:9 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: www.myhost.com
-https\://raw.github.com/289048093/mvn/mvn-repo/.error=
 https\://raw.github.com/289048093/mvn/mvn-repo/.lastUpdated=1450694335598
+https\://raw.github.com/289048093/mvn/mvn-repo/.error=
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.apache\:apache\:pom\:9 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: www.myhost.com
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1484368805091

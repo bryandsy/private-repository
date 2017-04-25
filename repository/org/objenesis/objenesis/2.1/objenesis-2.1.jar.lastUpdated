@@ -1,5 +1,8 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Dec 11 17:49:45 CST 2015
+#Sat Jan 14 13:03:29 CST 2017
 https\://repo.maven.apache.org/maven2/.lastUpdated=1449827385652
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1484370181469
 https\://raw.github.com/289048093/mvn/mvn-repo/.error=
 https\://raw.github.com/289048093/mvn/mvn-repo/.lastUpdated=1449826565222
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.objenesis\:objenesis\:jar\:2.1 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1484370209897
