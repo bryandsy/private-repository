@@ -1,9 +1,14 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Jan 09 14:44:55 CST 2017
-http\://repo.spring.io/milestone/.error=
-https\://repo.maven.apache.org/maven2/.lastUpdated=1483944295564
-http\://repo.spring.io/release/.lastUpdated=1483943967773
+#Mon Apr 24 10:48:36 CST 2017
 http\://repo.spring.io/snapshot/.lastUpdated=1483944011433
 http\://repo.spring.io/snapshot/.error=
-http\://repo.spring.io/milestone/.lastUpdated=1483943990595
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1493002116651
+http\://repo.spring.io/milestone/.error=
 http\://repo.spring.io/release/.error=
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1493001713806
+http\://repo.spring.io/milestone/.lastUpdated=1483943990595
+http\://repo.spring.io/release/.lastUpdated=1483943967773
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact org.apache.velocity\:velocity\:jar\:1.5 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+https\://repo.maven.apache.org/maven2/.lastUpdated=1483944295564
+https\://repository.cloudera.com/artifactory/cloudera-repos/.lastUpdated=1493002080611
+https\://repository.cloudera.com/artifactory/cloudera-repos/.error=

@@ -1,9 +1,14 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Jan 09 14:38:16 CST 2017
-http\://repo.spring.io/milestone/.error=
-https\://repo.maven.apache.org/maven2/.lastUpdated=1483943896037
-http\://repo.spring.io/release/.lastUpdated=1483943894750
+#Mon Apr 24 10:29:06 CST 2017
 http\://repo.spring.io/snapshot/.lastUpdated=1483943895669
 http\://repo.spring.io/snapshot/.error=
-http\://repo.spring.io/milestone/.lastUpdated=1483943895210
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1493000946223
+http\://repo.spring.io/milestone/.error=
 http\://repo.spring.io/release/.error=
+@default-jdk18-http\://www.myhost.com/maven/jdk18/.lastUpdated=1493000946151
+http\://repo.spring.io/milestone/.lastUpdated=1483943895210
+http\://www.myhost.com/maven/jdk18/.error=Could not transfer artifact javax.servlet\:servlet-api\:pom\:2.3 from/to jdk18 (http\://www.myhost.com/maven/jdk18)\: connect timed out
+http\://repo.spring.io/release/.lastUpdated=1483943894750
+https\://repo.maven.apache.org/maven2/.lastUpdated=1483943896037
+https\://repository.cloudera.com/artifactory/cloudera-repos/.lastUpdated=1493000943293
+https\://repository.cloudera.com/artifactory/cloudera-repos/.error=
